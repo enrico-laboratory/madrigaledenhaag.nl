@@ -1,5 +1,5 @@
 title = "Notre-Dame de Paris"
-baseURL = "https://https://enrico-laboratory.github.io/"
+baseURL = "https://enrico-laboratory.github.io/madrigaledenhaag.nl/"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "resources"
