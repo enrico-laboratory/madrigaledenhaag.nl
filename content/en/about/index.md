@@ -8,19 +8,11 @@ menu:
 ---
 ## Madrigale Den Haag
 
-Madrigale Den Haag richt haar repertoire op het Italiaanse madrigaal uit de 16e en 17e eeuw. Het madrigaal was het meest verheven en meest uitgevoerde wereldlijke muziekgenre aan de Italiaanse hoven in de renaissance. De MDH-programma’s verkennen de madrigaalstijlen die afkomstig zijn van Italiaanse hoven en hun vooraanstaande musici. De uitvoeringen zijn een volledige onderdompeling in dat fascinerende genre, zijn historische context en zijn poëzie, dat vele jaren het vermaak is geweest van muzikaal geschoolde amateurs en hun geselecteerde gasten.
-
+Madrigale Den Haag focus their repertoire on the Italian madrigal of the 16th and 17th centuries. The madrigal was the most elevated and performed secular music genre in the Renaissance Italian courts. MDH programs explore the madrigal styles coming from Italian courts and their prominent musicians. The performances will be a full immersion in that fascinating genre, its historical context and its poetry, which for many years would have been the entertainment of musically educated amateurs and their selected guests.
 ## Conductor
-Enrico Ruggieri, geboren in 1982, studeerd af in piano vond daarna zijn roeping in het
-dirigeren van koren. In Rome en Bologna studeerde hij koormuziek en koordirectie en
-behaalde tenslotte zijn masters aan het Koninklijk Conservatorium in Den Haag. Om zich
-verder te ontwikkelen volgde hij masterclasses in directie en oude muziek bij internationaal
-vermaarde specialisten.
+Enrico Ruggieri, born in 1982, after graduating as pianist, found his vocation in conducting choir. He studied choral music and conducting in Rome, Bologna and finally got a Master Degree at the Royal Conservatory of The Hague. He perfected himself attending masterclasses in conducting and early music by internationally renowned specialists.
 
-Hij was dirigent van vele ensembles groot en klein en van verschillende genres, met een
-voorkeur voor de polyfone stijl en de madrigaalmuziek van de late Renaissance en vroege
-Barok. Hij deed uitgebreid onderzoek naar de Portugese geestelijke muziek uit de 18e eeuw,
-waar hij transcripties van maakte en uitvoeringen van gaf.
+He conducted many ensembles of different sizes and genres, favouring the polyphonic style and the madrigal music of the late Renaissance and early Baroque style. He extensively researched, transcribed and performed sacred Portuguese music in the 18th century.
 
-Op dit moment is Enrico Ruggieri dirigent van het Haags Renaissance Kamerkoor en de
-projectkoren Madrigale Den Haag en Kamerkoor Koorteze.
+Presently Enrico Ruggieri conducts the Haags Renaissance Kamerkoor and the project choirs Madrigale Den Haag and Kamerkoor Koorteze.
+

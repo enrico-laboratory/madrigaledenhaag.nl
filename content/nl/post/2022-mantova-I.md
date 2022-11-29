@@ -1,15 +1,20 @@
 ---
 date: 2022-11-26T11:25:05-04:00
-description: "Music by Giaches de Wert at the Mantua court"
+description: "Music by Giaches de Wert in the Mantova court"
 featured_image: "/images/2022-mantova-I.jpeg"
 tags: []
 title: "Mantova I: Giaches de Wert"
 disable_share: false
 year: "2022"
-details: [
-{date: 2022-06-24T18:00:05-04:00, venue: "Cafe’ Loft", address: "Pomonaplein 49A, 2564XS Den Haag", price: "€45, 3 courses Italian dinner included", ticketText: "Reserve table", ticketLink: "https://www.loftdenhaag.nl/en/contact/"},
-{date: 2022-06-25T15:00:05-04:00, venue: "Stadsklooster", address: "Westeinde 101, 2512 GW Den Haag", price: "€15, after concert drinks included", ticketText: "Buy Ticket", ticketLink: ""},
-]
+summary: "
+**Fri 24 Jun 18:00 – Cafe’ Loft** / Pomonaplein 49A, 2564XS Den Haag / €45, *3 courses Italian dinner included*   
+/ [For reservations – Cafe’ Loft](https://www.loftdenhaag.nl/en/contact/)
+
+
+**Sat 25 Jun 15:00 – Stadsklooster** /    
+Westeinde 101, 2512 GW Den Haag /   
+€15, *after concert drinks included*
+"
 ---
 Madrigale Den Haag will perform madrigals by the most prominent musician in Mantua of the mid 16th century: Giaches de Wert. 
 
