@@ -5,6 +5,7 @@ featured_image: "/images/2022-mantova-I.jpeg"
 tags: []
 title: "Mantova I: Giaches de Wert"
 disable_share: false
+year: "2022"
 summary: "
 **Fri 24 Jun 18:00 – Cafe’ Loft** / Pomonaplein 49A, 2564XS Den Haag / €45, *3 courses Italian dinner included*   
 / [For reservations – Cafe’ Loft](https://www.loftdenhaag.nl/en/contact/)

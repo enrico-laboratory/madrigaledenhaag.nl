@@ -5,10 +5,13 @@ featured_image: "/images/2023-mantova-II.png"
 tags: []
 title: "Mantova II: Claudio Monteverdi"
 disable_share: false
+year: "2023"
+
 summary: "
 **Sat 10 Jun 15:00 – Stadsklooster** /    
 Westeinde 101, 2512 GW Den Haag /   
-€15, *after concert drinks included*
+€15, *after concert drinks included* / 
+[Buy Ticket]()
 
 
 **Sun 11 Jun 18:00 – Cafe’ Loft** / Pomonaplein 49A, 2564XS Den Haag / €45, *3 courses Italian dinner included*   
