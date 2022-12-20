@@ -4,21 +4,21 @@ languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "resources"
 
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "nl"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
 [languages]
-  [languages.en]
-    title = "Madrigale Den Haag"
-    weight = 1
-    contentDir = "content/en"
-    # languageDirection = 'rtl' for Right-To-Left languages
+#  [languages.en]
+#    title = "Madrigale Den Haag"
+#    weight = 1
+#    contentDir = "content/en"
+#    # languageDirection = 'rtl' for Right-To-Left languages
    [languages.nl]
      title = "Madrigale Den Haag"
-     weight = 2
+     weight = 1
      contentDir = "content/nl"
 
 [sitemap]

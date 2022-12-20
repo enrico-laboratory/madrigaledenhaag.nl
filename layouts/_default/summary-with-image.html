@@ -17,6 +17,7 @@
             </a>
         </h1>
         <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+          <p>{{ .Description }}</p>
           {{ range .Params.details}}
           <p><strong>{{ .date | time.Format (default "January 2, 2006" .Site.Params.date_format) }}
             - {{ .venue}}</strong><br>

@@ -15,7 +15,9 @@
                     <i>{{ .price}}</i><br>
                     <a href="{{ .ticketLink}}">{{.ticketText}}</a></p>
                 {{end}}
+                {{if ne .Content ""}}
                 <h2>Description</h2>
+                {{end}}
                 {{ .Content }}
             </div>
         </article>
