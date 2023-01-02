@@ -16,7 +16,7 @@
                     <a href="{{ .ticketLink}}">{{.ticketText}}</a></p>
                 {{end}}
                 {{if ne .Content ""}}
-                <h2>Description</h2>
+                <h2>{{ i18n "description" . }}</h2>
                 {{end}}
                 {{ .Content }}
             </div>
