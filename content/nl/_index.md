@@ -7,5 +7,5 @@ theme_version: '2.8.2'
 cascade:
   featured_image: '/images/The_School_of_Athens__by_Raffaello_Sanzio_da_Urbino.jpeg'
 ---
-Welcome to the Madrigale Den Haag website!  
-See below for the next concert. 
+Welkom op de website van Madrigale Den Haag!
+Zie hieronder voor het volgende concert.
